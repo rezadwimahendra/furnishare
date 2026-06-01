@@ -2,7 +2,7 @@
 
 Proyek aplikasi E-Commerce Penjualan Furniture (Furnishare) berbasis Laravel. Repositori ini dibuat untuk keperluan tugas.
 
-## ⚙️ Persyaratan Sistem
+##  Persyaratan Sistem
 Sebelum menjalankan aplikasi, pastikan komputer Anda telah terinstal:
 - PHP (minimal versi 8.1 / menyesuaikan versi Laravel)
 - [Composer](https://getcomposer.org/)
@@ -11,7 +11,7 @@ Sebelum menjalankan aplikasi, pastikan komputer Anda telah terinstal:
 
 ---
 
-## 🚀 Cara Menjalankan Proyek (Panduan Instalasi)
+##  Cara Menjalankan Proyek (Panduan Instalasi)
 
 Ikuti langkah-langkah di bawah ini untuk menjalankan aplikasi secara lokal:
 
@@ -73,4 +73,4 @@ Dan aplikasi web akan berjalan, Anda dapat mengaksesnya di browser melalui alama
 **`http://localhost:8000`**
 
 ---
-🚀 Selamat mencoba!
+ Selamat mencoba!
